@@ -10,4 +10,3 @@ td <br>
  HTML5 <br>
  CSS <br>
  <br>
- na aula aprendemos a identificar nossas soft skills e hard skills
